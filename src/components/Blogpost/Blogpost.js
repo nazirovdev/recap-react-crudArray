@@ -148,7 +148,7 @@ export default class Blogpost extends Component {
                             name="title"
                         />
                     </label>
-                    <button>Edit</button>
+                    <button>Simpan</button>
                 </form>
                 <PostContainer>
                     <Posts

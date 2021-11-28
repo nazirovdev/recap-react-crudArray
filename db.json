@@ -1,24 +1,3 @@
 {
-  "todos": [
-    {
-      "title": "Belajar HTML5",
-      "id": 1
-    },
-    {
-      "title": "Belajar CSS3",
-      "id": 2
-    },
-    {
-      "title": "Belajar JS ES6",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "title": "Belajar ReactJS"
-    },
-    {
-      "id": 5,
-      "title": "Belajar SASS"
-    }
-  ]
+  "todos": []
 }

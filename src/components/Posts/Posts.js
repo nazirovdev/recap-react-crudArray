@@ -11,7 +11,7 @@ export default class Posts extends Component {
                 </div>
                 <div className="todo__footer">
                     <button onClick={() => this.props.edit(todo.id)}>
-                        Tandai
+                        Edit
                     </button>
                     <button onClick={() => this.props.hapus(todo.id)}>
                         Hapus
