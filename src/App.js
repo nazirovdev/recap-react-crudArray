@@ -1,10 +1,10 @@
 import React from "react";
-import Blogpost from "./components/Blogpost/Blogpost";
+import TodoApp from "./components/TodoApp/TodoApp";
 
 export default function App() {
     return (
         <>
-            <Blogpost />
+            <TodoApp />
         </>
     );
 }
